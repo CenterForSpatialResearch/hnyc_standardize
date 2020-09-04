@@ -6,7 +6,7 @@ This process identies different components of an address like city, house no, co
 The process is only setup for 1850 mn cd directory. It identifies the 'H addresses' that either start with 'H' or has an 'H' idenfier in somewhere in the address record. 
 
 ### Process:
-1. Create functions to identify cityy, street and county
+1. Create functions to identify city, street and county
 
 2. Then City from a list NY, New Jersey and Connecticut cities is identified. 
 

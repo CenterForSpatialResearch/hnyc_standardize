@@ -1,8 +1,8 @@
-# Instructions
-Before running the scripts
-Create a new folder "Data" under this "script" folder.
-All dataset inputs and outputs should be placed under the "Data" folder.
+# Overview
 Latest versions of datasets could be find in the shared google drive folder.
+
+This process identifies the occupations that were wrongly merged with address information. Used substring matching and fuzzy name match algorithm to find appropriate occupations.
+Then all the occupations from different directories were combined and used aglomerative clustering and affinity propogation algorithms to standardize the occupations
 
 ### Raw dataset inputs (in google drive)
 Output csv files from the cd_processing process

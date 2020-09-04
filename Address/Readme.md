@@ -17,6 +17,8 @@ The process is only setup for 1850 mn cd directory. It identifies the 'H address
 5. While finding the street name: Identify special cases like Corner and Near identifiers where two street names are present instead of one
 
 ### Raw dataset inputs (in google drive)
+https://drive.google.com/drive/u/3/folders/1BG3cgsQYclFNVrRyYiHogDhxVkc0nr9H
+
 Output csv files from the occupation standarization process
 
 Output_1850_mn

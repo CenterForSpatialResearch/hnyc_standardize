@@ -14,7 +14,8 @@ Instructions for cleaning BK 1850 (the same instructions are also valid for MN 1
 07_before address builder-Copy1.ipynb, 
 08_Address Builder.Rmd,
 09_after running workflow.ipynb, 
-10_Street clean - rerun.ipynb.
+10_Street clean - rerun.ipynb,
+11_Address Builder copy.Rmd
 
 Be sure to track the names of the files that are being written at each step so that the next step can take the proper file as its input. I may have changed the names of the CSV’s that are being written after each step to something other than what the files in the ‘data’ are named, so please modify the names of the CSV’s according to your own naming scheme.
 

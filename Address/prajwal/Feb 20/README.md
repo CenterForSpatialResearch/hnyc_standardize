@@ -78,4 +78,4 @@ Running the street clean code again for the address builder step that is next
 
 Final instance of running the address builder
 
-8) The steps for cleaning address 2 are the same, except you start with the output generated from 01.5_code for address 2.ipynb.
+8) The steps for cleaning address 2 are the same, except you start with the output generated from 01.5_code for address 2.ipynb. Code for cleaning address2 is in the address2/lib folder.

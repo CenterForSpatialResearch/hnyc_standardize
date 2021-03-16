@@ -5,7 +5,7 @@ A separate folder is created for both the processes. Each contains the code, inp
 
 ## Objective (Problem Statement)
 To standardize Address , Occupation and Names
-Names for example `..` to  `..``
+Names for example `..` to  `..`
 Occupation for example `..` to `..`
 Address for example `..` to `..`
 

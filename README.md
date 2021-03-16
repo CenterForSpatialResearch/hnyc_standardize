@@ -1,9 +1,8 @@
 # HNYC- City Directory Standardization
-City Directory Components.jpeg![image](https://user-images.githubusercontent.com/14994526/111259674-c85dbc00-85f5-11eb-877e-f776a417d5ba.png)
 
-The hnyc_standardize repo consist of processes to standardize the addresses and occupations.
+The hnyc_standardize repo consist of processes to standardize the addresses and occupations. A separate folder is created for both the processes. Each contains the code, input folder, working files folder and output folder.
 
-A separate folder is created for both the processes. Each contains the code, input folder, working files folder and output folder.
+![image](https://user-images.githubusercontent.com/14994526/111259674-c85dbc00-85f5-11eb-877e-f776a417d5ba.png)
 
 ## Objective (Problem Statement)
 To standardize Address , Occupation and Names

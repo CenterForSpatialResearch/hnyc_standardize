@@ -1,6 +1,19 @@
 # Objective
 
 # Methodology and approach
+
+- Flagging Columns with 'Brooklyn' or 'Manhattan' only which are the page titles.
+- Flagging columns with (refused) entries as names
+- Finding titles like Capt. etc and moving them to titles
+- Looking for numbers in names 
+
+
+### Similar 
+
+- Finally using the Split names to reconstruct the Full name 
+- 
+
+
 | Character 	| Count of Instances 	|                   Example Value                  	|                    Trend/Pattern                   	|                                       Method/Approach                                        	|
 |:---------:	|:------------------:	|:------------------------------------------------:	|:--------------------------------------------------:	|:--------------------------------------------------------------------------------------------:	|
 | (refused) 	|         21         	|                Pinteaux (refused)                	|              Mostly occurs in FN or LN             	|          Keep as is in FN, LN if FN is empty and MN is refused then fill FN with MN          	|
@@ -20,6 +33,11 @@
 |    (Rev   	|                    	|                                                  	|                                                    	|                                                                                              	|
 |  (col'd)  	|                    	|                                                  	|                                                    	|                                                                                              	|
 |     Â»    	|                    	|                                                  	|                                                    	|                                                                                              	|
+
+
+
+
+
 
 # Input Files and Source
 

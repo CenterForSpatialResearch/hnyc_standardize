@@ -1,6 +1,6 @@
 # Objective
 
-# Methodology and approach
+## Methodology and approach
 
 - Flagging Columns with 'Brooklyn' or 'Manhattan' only which are the page titles.
 - Flagging columns with (refused) entries as names
@@ -8,10 +8,12 @@
 - Looking for numbers in names 
 
 
-### Similar 
+## Statistics
 
-- Finally using the Split names to reconstruct the Full name 
-- 
+- 96245	Inital records BK+MN
+- 86362	Final (removing the )
+- 4114	have no FN 
+
 
 | Character 	| Count of Instances 	|                   Example Value                  	|                    Trend/Pattern                   	|                                       Method/Approach                                        	|
 |:---------:	|:------------------:	|:------------------------------------------------:	|:--------------------------------------------------:	|:--------------------------------------------------------------------------------------------:	|
